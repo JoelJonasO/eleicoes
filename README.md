@@ -1,7 +1,7 @@
 
 # Projeto Eleições
 
-Pequena lógica que imprime o percentual do resultado de um eleição hipotética.
+Pequena lógica que imprime o percentual do resultado de uma eleição hipotética.
 
 Basta executar o application do projeto para exibir os resultados.
 
